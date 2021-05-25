@@ -1,3 +1,4 @@
 Sterted file3
 
 Second entry in File3
+Third entry in file3
