@@ -1,2 +1,4 @@
 This is the first git file
 Another line
+
+Added third entry
